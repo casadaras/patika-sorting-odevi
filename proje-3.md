@@ -3,7 +3,7 @@ __Proje 3 Ödevi Soru ve Cevapları:__
 >Soru 1:
 >[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
-Cevap a-)
+Cevap:
 ```
 Verilen dizi: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
 
